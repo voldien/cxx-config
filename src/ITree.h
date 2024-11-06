@@ -24,6 +24,7 @@
 #include <cassert>
 #include <memory>
 #include <stdexcept>
+#include <utility>
 
 namespace cxxconfig {
 
